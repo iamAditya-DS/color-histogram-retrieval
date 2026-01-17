@@ -1,7 +1,7 @@
-**Content-Based Image Retrieval (CBIR) System**
+**Content-Based Image Retrieval (CBIR) System**:
 This project implements a search engine for images that retrieves results based on their visual content (features) rather than metadata or text-based tags. It utilizes Computer Vision techniques to analyze image characteristics like color and texture to find the most similar matches in a dataset.
 
-🚀 Overview:
+🚀 Overview:\n
 Traditional search engines rely on keywords. This system allows a user to provide a "query image" and find similar images from a collection by calculating the mathematical distance between their feature vectors.
 
 🛠️ Tech Stack:
